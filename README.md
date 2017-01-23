@@ -1,1 +1,1 @@
-Hello this is a Car Rental project. The User can Sign Up or Sign Up. User can Search the cars with 3 paramaters. User can know the price and book the car. Admin can Add and Modify the cars.
+Hello this is a Car Rental project. The User can Sign In or Sign Up. User can sort the cars based on price and filter the cars based on company, model and type. User can know the price and book the car. Admin can add,modify and delete the cars.
